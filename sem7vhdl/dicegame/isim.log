@@ -1,0 +1,87 @@
+ISim log file
+Running: C:\Users\Administrator\Documents\sem7vhdl\dicegame\game1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /game1/clk 1 -radix bin -value 0 -radix bin -time 25 ns -repeat 50 ns
+# isim force add /game1/clk_new 1 -radix bin -value 0 -radix bin -time 5 ns -repeat 10 ns
+# isim force add /game1/rst 1 -radix bin -cancel 5 ns
+# isim force add /game1/sw 1 -radix bin -value 0 -radix bin -time 50 ns -repeat 100 ns
+# run all
+Stopped at time : 88853665 ns : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51
+# isim force add /game1/rst 0 -radix bin -cancel 10 ns
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /game1/clk 1 -radix bin -value 0 -radix bin -time 25 ns -repeat 50 ns
+# run all
+Stopped at time : 62388175 ns : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 107
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /game1/clk 1 -radix bin -value 0 -radix bin -time 25 ns -repeat 50 ns
+# isim force add /game1/clk_new 1 -radix bin -value 0 -radix bin -time 50 ns -repeat 100 ns
+# isim force add /game1/rst 0 -radix bin
+# isim force add /game1/sw 1 -radix bin
+# run all
+Stopped at time : 45092 us : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /game1/clk 1 -radix bin -value 0 -radix bin -time 50 ns -repeat 100 ns
+# isim force add /game1/clk_new 1 -radix bin -value 0 -radix bin -time 5 ns -repeat 10 ns
+# isim force add /game1/rst 1 -radix bin
+# isim force add /game1/sw 1 -radix bin
+# run all
+Stopped at time : 16902685 ns : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51
+# isim force add /game1/rst 0 -radix bin
+# run 1.00us
+# run all
+Stopped at time : 33287470 ns : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run all
+# run all
+# restart
+# step
+Simulator is doing circuit initialization process.
+Stopped at time : 0 fs : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /game1/sw 1 -radix bin -value 0 -radix bin -time 500 ns -repeat 1 us
+# isim force add /game1/clk 1 -radix bin -value 0 -radix bin -time 50 ns -repeat 100 ns
+# isim force add /game1/clk_new 1 -radix bin -value 0 -radix bin -time 5 ns -repeat 10 ns
+# isim force add /game1/rst 0 -radix bin
+# run all
+Stopped at time : 13294710 ns : File "C:/Users/Administrator/Documents/sem7vhdl/dicegame/game1.vhd" Line 51

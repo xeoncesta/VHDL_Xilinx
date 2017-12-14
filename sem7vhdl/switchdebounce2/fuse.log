@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb_isim_beh.exe -prj C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb_beh.prj work.debouncetb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debounce2.vhd" into library work
+Parsing VHDL file "C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 108808 KB
+Fuse CPU Usage: 296 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity debounce2 [debounce2_default]
+Compiling architecture behavior of entity debouncetb
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb_isim_beh.exe
+Fuse Memory Usage: 124856 KB
+Fuse CPU Usage: 389 ms

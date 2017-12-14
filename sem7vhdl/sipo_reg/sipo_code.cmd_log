@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Documents/sem7vhdl/sipo_reg/sipo_code.xst" -ofn "C:/Users/Administrator/Documents/sem7vhdl/sipo_reg/sipo_code.syr" 

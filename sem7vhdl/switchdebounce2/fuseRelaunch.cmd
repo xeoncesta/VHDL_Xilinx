@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb_isim_beh.exe" -prj "C:/Users/Administrator/Documents/sem7vhdl/switchdebounce2/debouncetb_beh.prj" "work.debouncetb" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Administrator/Documents/sem7vhdl/temp/countertb_isim_beh.exe" -prj "C:/Users/Administrator/Documents/sem7vhdl/temp/countertb_beh.prj" "work.countertb" 

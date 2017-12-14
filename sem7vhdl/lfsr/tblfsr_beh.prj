@@ -1,0 +1,2 @@
+vhdl work "prng.vhd"
+vhdl work "tblfsr.vhd"

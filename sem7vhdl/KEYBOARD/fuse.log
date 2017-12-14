@@ -1,0 +1,19 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scanner_isim_beh.exe -prj C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scanner_beh.prj work.scanner 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scan.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 108360 KB
+Fuse CPU Usage: 249 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behaviour of entity scanner
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 VHDL Units
+Built simulation executable C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scanner_isim_beh.exe
+Fuse Memory Usage: 117304 KB
+Fuse CPU Usage: 280 ms

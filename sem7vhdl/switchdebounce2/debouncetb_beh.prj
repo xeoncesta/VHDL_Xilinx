@@ -1,0 +1,2 @@
+vhdl work "debounce2.vhd"
+vhdl work "debouncetb.vhd"

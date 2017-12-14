@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/xst"
+elaborate
+-ifn scanner.prj
+-ifmt mixed

@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/Administrator/Documents/sem7vhdl/UART/code.vhd 2017/10/29.20:19:07 P.20131013
+EN work/UART_RX 1509288552 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/UART/code.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/UART_RX/rtl 1509288553 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/UART/code.vhd EN work/UART_RX 1509288552

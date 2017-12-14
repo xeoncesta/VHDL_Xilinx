@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scanner_isim_beh.exe" -prj "C:/Users/Administrator/Documents/sem7vhdl/KEYBOARD/scanner_beh.prj" "work.scanner" 

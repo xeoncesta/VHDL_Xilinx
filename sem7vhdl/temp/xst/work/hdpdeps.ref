@@ -1,0 +1,15 @@
+V3 6
+FL C:/Users/Administrator/Documents/sem7vhdl/temp/counter.vhd 2017/09/24.22:19:10 P.20131013
+EN work/counter 1506271754 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/temp/counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/counter/Behavioral 1506271755 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/temp/counter.vhd \
+      EN work/counter 1506271754
+FL C:/Users/Administrator/Documents/sem7vhdl/temp/tempcode.vhd 2017/09/24.20:28:47 P.20131013
+EN work/Debounce 1506270672 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/temp/tempcode.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Debounce/Behavioral 1506270673 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/temp/tempcode.vhd \
+      EN work/Debounce 1506270672

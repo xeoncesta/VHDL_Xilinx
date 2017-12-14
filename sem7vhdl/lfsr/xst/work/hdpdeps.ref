@@ -1,0 +1,7 @@
+V3 3
+FL C:/Users/Administrator/Documents/sem7vhdl/lfsr/prng.vhd 2017/10/29.17:08:07 P.20131013
+EN work/prng 1509277440 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/lfsr/prng.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/prng/Behavioral 1509277441 \
+      FL C:/Users/Administrator/Documents/sem7vhdl/lfsr/prng.vhd EN work/prng 1509277440

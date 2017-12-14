@@ -1,0 +1,23 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/Users/Administrator/Documents/sem7vhdl/temp/countertb_isim_beh.exe" -prj "C:/Users/Administrator/Documents/sem7vhdl/temp/countertb_beh.prj" "work.countertb" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Administrator/Documents/sem7vhdl/temp/counter.vhd" into library work
+Parsing VHDL file "C:/Users/Administrator/Documents/sem7vhdl/temp/countertb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 108680 KB
+Fuse CPU Usage: 311 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity counter [counter_default]
+Compiling architecture behavior of entity countertb
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable C:/Users/Administrator/Documents/sem7vhdl/temp/countertb_isim_beh.exe
+Fuse Memory Usage: 124728 KB
+Fuse CPU Usage: 405 ms

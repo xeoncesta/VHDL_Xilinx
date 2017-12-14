@@ -1,0 +1,2 @@
+vhdl isim_temp "delay_code.vhd"
+vhdl isim_temp "delay_tb.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Administrator/Documents/sem7vhdl/UART/uart_tb_isim_beh.exe" -prj "C:/Users/Administrator/Documents/sem7vhdl/UART/uart_tb_beh.prj" "work.uart_tb" 

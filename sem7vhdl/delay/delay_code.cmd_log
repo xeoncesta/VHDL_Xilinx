@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Documents/sem7vhdl/delay/delay_code.xst" -ofn "C:/Users/Administrator/Documents/sem7vhdl/delay/delay_code.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Documents/sem7vhdl/delay/delay_code.xst" -ofn "C:/Users/Administrator/Documents/sem7vhdl/delay/delay_code.syr" 

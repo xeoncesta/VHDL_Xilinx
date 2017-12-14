@@ -1,0 +1,2 @@
+vhdl work "sipo_code.vhd"
+vhdl work "sipo_tb.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Documents/sem7vhdl/lfsr/prng.xst" -ofn "C:/Users/Administrator/Documents/sem7vhdl/lfsr/prng.syr" 
